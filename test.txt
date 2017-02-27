@@ -1,2 +1,4 @@
 hello! git!
 Edit test!
+
+This line was added by Eric!
